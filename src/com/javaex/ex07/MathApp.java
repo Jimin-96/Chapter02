@@ -9,6 +9,10 @@ public class MathApp {
 		System.out.println(math.plus(4, 4));
 		System.out.println(math.plus(3.2, 5.4));
 		System.out.println(math.plus(100, 2.222));
+		
+		
+		
+
 
 	}
 
